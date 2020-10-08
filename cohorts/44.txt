@@ -1,7 +1,6 @@
 https://github.com/aandrusky
 https://github.com/davidb-github
 https://github.com/billwishop
-https://github.com/billwishop
 https://github.com/TJakeButler
 https://github.com/CharlieButterworth
 https://github.com/mcampopiano
@@ -20,6 +19,14 @@ https://github.com/tedmarov
 https://github.com/dmccracken13
 https://github.com/TravisMilner
 https://github.com/Knevels1
+https://github.com/ericaphillips
+https://github.com/sanjeetprasad
+https://github.com/leorondeau
+https://github.com/bschweiz
+https://github.com/kylesimmonsc44
+https://github.com/TrentSisson
+https://github.com/krsteele
+https://github.com/TheTechTravis
 https://github.com/NotThatPatrickStewart
 https://github.com/swiens
 https://github.com/dwilliams91
