@@ -9,7 +9,6 @@ https://github.com/JCrippen01
 https://github.com/bdleon
 https://github.com/TheBenGregory
 https://github.com/travish-io
-https://github.com/ShikurNuriye
 https://github.com/FolksyCarrot
 https://github.com/kyliepost
 https://github.com/pulley871
@@ -24,4 +23,3 @@ https://github.com/e-truman
 https://github.com/Lunderwood33
 https://github.com/cameronpwhite
 https://github.com/aww2539
-https://github.com/FebenWorku
